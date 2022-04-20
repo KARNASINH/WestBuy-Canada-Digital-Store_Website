@@ -18,5 +18,6 @@ namespace COMP2084_Project_200478377.Data
         public DbSet<Product> Product { get; set; }
         public DbSet<ProductCategory> ProductCategory { get; set; }
         public DbSet<DeliveryDetail> DeliveryDetail { get; set; }
+        public DbSet<COMP2084_Project_200478377.Models.Role> Role { get; set; }
     }
 }
