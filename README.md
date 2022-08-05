@@ -18,32 +18,7 @@
  ## Role Mangement
  - I have created Role and RoleMembership model class and controllers for role and role authorization.
 
-## SQL Database Screenshots
-
-- Product SQL Table
-
-![1](https://user-images.githubusercontent.com/75551627/164350077-5ec8bd18-88aa-4deb-9157-149d75c3959c.JPG)
-
-
-- ProductCategory SQL Table
-
-![2](https://user-images.githubusercontent.com/75551627/164350126-071a6b3c-6d2f-4e9e-aab5-b8b0319bf599.JPG)
-
-
-- Customer SQL Table
-
-![3](https://user-images.githubusercontent.com/75551627/164350147-5bdd861b-5057-4c54-a786-4b526c9414d3.JPG)
-
-
-- BillDetail SQL Table
-
-![4](https://user-images.githubusercontent.com/75551627/164350313-7be92bff-6093-4de3-aabd-378df3b9e56a.JPG)
-
-
-- DeliveryDetail SQL Table
-
-![5](https://user-images.githubusercontent.com/75551627/164350317-bd9feec3-cf8b-4e8f-834b-bafe9aa42c5d.JPG)
-
+## Screen shots
 
 - UserLogged In SQL Table
 
@@ -96,6 +71,31 @@
 
 ![20_Log In page](https://user-images.githubusercontent.com/75551627/164351160-036313e6-7ca6-4137-8107-1ecb2b540f09.JPG)
 
+## SQL Database Screenshots
+
+- Product SQL Table
+
+![1](https://user-images.githubusercontent.com/75551627/164350077-5ec8bd18-88aa-4deb-9157-149d75c3959c.JPG)
+
+
+- ProductCategory SQL Table
+
+![2](https://user-images.githubusercontent.com/75551627/164350126-071a6b3c-6d2f-4e9e-aab5-b8b0319bf599.JPG)
+
+
+- Customer SQL Table
+
+![3](https://user-images.githubusercontent.com/75551627/164350147-5bdd861b-5057-4c54-a786-4b526c9414d3.JPG)
+
+
+- BillDetail SQL Table
+
+![4](https://user-images.githubusercontent.com/75551627/164350313-7be92bff-6093-4de3-aabd-378df3b9e56a.JPG)
+
+
+- DeliveryDetail SQL Table
+
+![5](https://user-images.githubusercontent.com/75551627/164350317-bd9feec3-cf8b-4e8f-834b-bafe9aa42c5d.JPG)
 
 
 ## Git Hub Commit Page Screenshot
