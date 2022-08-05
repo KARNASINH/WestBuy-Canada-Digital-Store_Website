@@ -20,11 +20,6 @@
 
 ## Screen shots
 
-- UserLogged In SQL Table
-
-![6](https://user-images.githubusercontent.com/75551627/164350354-02e11023-1699-46dc-b642-69ef129952e0.JPG)
-
-
 ## Azure Hosted Website Screenshots
 
 - Main Page
@@ -71,7 +66,13 @@
 
 ![20_Log In page](https://user-images.githubusercontent.com/75551627/164351160-036313e6-7ca6-4137-8107-1ecb2b540f09.JPG)
 
+
 ## SQL Database Screenshots
+
+- UserLogged In SQL Table
+
+![6](https://user-images.githubusercontent.com/75551627/164350354-02e11023-1699-46dc-b642-69ef129952e0.JPG)
+
 
 - Product SQL Table
 
