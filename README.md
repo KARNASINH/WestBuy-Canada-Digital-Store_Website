@@ -13,7 +13,7 @@
  - This application also has Models, Views and Controllers for Customer, Product, Product Category, Bill and Delivery pagees.
  
  - We have used Azure Cloud technology for SQL databse and hosting the website.
- - Live project can be found at https://comp2084project20047837720220420151935.azurewebsites.net/
+ - Live project can be found at https://comp2084project20047837720220420151935.azurewebsites.net/ (right now not working)
 
  ## Role Mangement
  - I have created Role and RoleMembership model class and controllers for role and role authorization.
