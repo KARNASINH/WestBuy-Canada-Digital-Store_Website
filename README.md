@@ -1,10 +1,4 @@
-# COMP2084_Project_200478377
-
-## Student Detail
-
- 1. Karnasinh Gohil (200478377)
-
- ## Introduction
+## Introduction
  - This project is for West Buy Canada Digital store.
  - Any customer can come and buy digital product and iteams get delivered on their address withing next 5 days.
  
