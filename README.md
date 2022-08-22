@@ -9,6 +9,14 @@
  - We have used Azure Cloud technology for SQL database and hosting the website.
  - A Live project can be found at https://comp2084project20047837720220420151935.azurewebsites.net/ (right now not working)
 
+## Programming languages and Technologies used
+ - C#
+ - Asp.net Core
+ - MS SQL Server Database
+ - HTML
+ - CSS
+ - Visual Studio Code
+
  ## Role Mangement
  - I have created Role and RoleMembership model class and controllers for role and role authorization.
 
